@@ -1,0 +1,21 @@
+# build output
+bin/
+obj/
+
+# game assets (music / art / pet sounds are NOT covered by the MIT license
+# and are distributed separately in the mod's asset pack)
+assets/
+
+# packaging / deployment artifacts
+*.zip
+*.dll
+
+# local state, secrets and machine-specific files
+_upload_state.json
+_upload.log
+_changelog.txt
+settings*.txt
+updates*.txt
+*_backup*.txt
+diag.txt
+assets_ver.txt
