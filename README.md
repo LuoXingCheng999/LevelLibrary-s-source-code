@@ -56,3 +56,4 @@ The mod talks to your game installation (and to the mod's update server for vers
 ---
 
 *made by luo, with help from cheng*
+注意：为便于使用，注释以及代码结构使用相关AI工具进行重整
